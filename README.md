@@ -5,7 +5,7 @@
 >一个公益平台，这个平台旨在发布索捐信息和展示捐赠信息，实现捐赠信息对称。
 
 #Update 2016-01-13
->地址：[stuxt.github.io/Clothes-For-Warm/](stuxt.github.io/Clothes-For-Warm/)
+>项目DEMO地址：[stuxt.github.io/Clothes-For-Warm/](stuxt.github.io/Clothes-For-Warm/)
 
 #Update 2016-01-05
 >此项目在：**stuxt.github.io**下的**cfw**目录下
