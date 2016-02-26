@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+
+.card .content-block{
+	width: 100%;
+	padding: 0;
+}
+.facebook-card .button{
+	height: 2rem;
+}
+.facebook-card .button-warning.button-fill {
+    color: #fff;
+    line-height: 2rem;
+}
+.facebook-card .button-success.button-fill {
+    color: #fff;
+    line-height: 2rem;
+}
+
+/*进度条style start*/
+.facebook-card .loading_data{
+	height: .6rem;
+	width: 100%;
+	background-color: #eee;
+}
+.facebook-card .loading_data .complete{
+	height: .6rem;
+	line-height: .6rem;
+	width: 50%;
+	float: left;
+	background-color: #F60;
+	color: #fff;
+	text-align: right;
+}
+/*进度条style end*/
+
+/*index page style*/
+.index-page .app-logo{
+	height: 15rem;
+	background-image: url(topbg.webp);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	text-align: center;
+	color: #FFF;
+	font-family: "microsoft yahei";
+	font-weight: bold;
+	border-bottom:1px solid #ddd;
+	font-size: 1.5rem;
+}
+.index-page .app-logo img{
+	width: 40%;
+	margin-top: 2rem;
+}
+.index-page .app-logo p{
+	margin:0;
+}
+
+/*for page style*/
+.for-page .facebook-card .facebook-avatar {
+    font-size: .65rem;
+}
+.for-page .facebook-card h4{
+	margin: .3rem auto;
+}
+
+.for-page .facebook-card .button-warning.button-fill {
+    color: #fff;
+}
+
+
+/*for-detail-page style*/
+.for-detail-page .button{
+	height: 2.5rem;
+	border-radius: none;
+}
+.for-detail-page .facebook-card .button.button-fill  {
+    line-height: 2.5rem;
+}
