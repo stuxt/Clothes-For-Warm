@@ -37,7 +37,7 @@
 /*index page style*/
 .index-page .app-logo{
 	height: 15rem;
-	background-image: url(../img/topbg.webp);
+	background-image: url(../img/topbg.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
