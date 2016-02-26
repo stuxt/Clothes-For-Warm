@@ -54,6 +54,7 @@
 }
 .index-page .app-logo p{
 	margin:0;
+	-moz-box-shadow:0px 0px 20px #333333; -webkit-box-shadow:0px 0px 20px #333333; box-shadow:0px 0px 20px #333333;
 }
 
 /*for page style*/
